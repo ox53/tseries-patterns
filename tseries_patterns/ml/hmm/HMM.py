@@ -27,7 +27,8 @@ import numpy as np
 import pandas as pd
 import hmmlearn.hmm
 
-from hmmlearn.hmm import _BaseHMM
+#from hmmlearn.hmm import _BaseHMM
+from hmmlearn.base import _BaseHMM
 
 
 
